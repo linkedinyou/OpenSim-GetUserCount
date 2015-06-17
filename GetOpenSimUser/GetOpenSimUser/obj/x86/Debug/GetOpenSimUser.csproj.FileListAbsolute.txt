@@ -1,0 +1,8 @@
+C:\Users\christopher\AppData\Local\Temporary Projects\GetOpenSimUser\bin\Debug\GetOpenSimUser.exe
+C:\Users\christopher\AppData\Local\Temporary Projects\GetOpenSimUser\bin\Debug\GetOpenSimUser.pdb
+C:\Users\christopher\AppData\Local\Temporary Projects\GetOpenSimUser\obj\x86\Debug\GetOpenSimUser.exe
+C:\Users\christopher\AppData\Local\Temporary Projects\GetOpenSimUser\obj\x86\Debug\GetOpenSimUser.pdb
+C:\Users\christopher\documents\visual studio 2010\Projects\GetOpenSimUser\GetOpenSimUser\obj\x86\Debug\GetOpenSimUser.exe
+C:\Users\christopher\documents\visual studio 2010\Projects\GetOpenSimUser\GetOpenSimUser\obj\x86\Debug\GetOpenSimUser.pdb
+C:\Users\christopher\documents\visual studio 2010\Projects\GetOpenSimUser\GetOpenSimUser\bin\Debug\GetOpenSimUser.exe
+C:\Users\christopher\documents\visual studio 2010\Projects\GetOpenSimUser\GetOpenSimUser\bin\Debug\GetOpenSimUser.pdb
