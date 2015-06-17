@@ -2,3 +2,5 @@ C:\Users\christopher\documents\visual studio 2010\Projects\GetOpenSimUser\GetOpe
 C:\Users\christopher\documents\visual studio 2010\Projects\GetOpenSimUser\GetOpenSimUser\bin\Release\GetOpenSimUser.pdb
 C:\Users\christopher\documents\visual studio 2010\Projects\GetOpenSimUser\GetOpenSimUser\obj\x86\Release\GetOpenSimUser.exe
 C:\Users\christopher\documents\visual studio 2010\Projects\GetOpenSimUser\GetOpenSimUser\obj\x86\Release\GetOpenSimUser.pdb
+C:\Users\christopher\Documents\GitHub\OpenSim-GetUserCount\GetOpenSimUser\GetOpenSimUser\obj\x86\Release\GetOpenSimUser.exe
+C:\Users\christopher\Documents\GitHub\OpenSim-GetUserCount\GetOpenSimUser\GetOpenSimUser\obj\x86\Release\GetOpenSimUser.pdb

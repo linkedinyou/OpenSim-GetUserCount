@@ -33,9 +33,18 @@ namespace GetOpenSimUser
 
         static void Main(string[] args)
         {
-            string text = System.IO.File.ReadAllText(args[0]);
-
-            Console.Write(getUserCount(text));
+            try
+            {
+                using (WebClient client = new WebClient())
+                {
+                    string htmlCode = client.DownloadString("http://127.0.0.1:" + args[0] + "/jsonSimStats");
+                    Console.Write(getUserCount(htmlCode));
+                }
+            }
+            catch (Exception e)
+            {
+                Console.Write("-");
+            }
         }
     }
 }
