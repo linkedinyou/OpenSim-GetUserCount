@@ -21,7 +21,7 @@ namespace GetOpenSimUser
             {
                 string[] ar = line.Split(':');
 
-                if (ar[0].Equals("AgntUp"))
+                if (ar[0].Equals("RootAg"))
                 {
                     return ar[1];
                 }
